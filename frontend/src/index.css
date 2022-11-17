@@ -16,3 +16,13 @@ a {
     color: unset; /* nao mudar a cor(sem formatacao) */
     text-decoration: none; /* nao acrescentar sublinhado "decoracao de texto" */
 }
+
+.dsmeta-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto; /* Dica para alinhar ao centro */
+}
+
+#sales {
+    padding: 40px 10px;
+}
